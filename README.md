@@ -53,9 +53,9 @@ https://documenter.getpostman.com/view/29592036/2sA3JDimFH
 To run the application using Docker, follow these steps:
 
 1. Clone the repository:
-   - git clone https://github.com/Kajal-Yadav31/BlogAPIapplication.git
+   - git clone https://github.com/Kajal-Yadav31/Auth-BlogApi-Project.git
 2. Navigate to the project directory:
-   - cd BlogAPIapplication
+   - cd Auth-BlogApi-Project
 3. Build the Docker image:
    - docker build -t  BlogApp.
 4. Run the Docker container:
